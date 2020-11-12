@@ -17,4 +17,4 @@ is PHP library that generates fake data for Muslim, InsyaAllah.. You can Bootstr
  - [ ] ....
 
 # Contributing
-Feel free to contribute
+See Contributing page [here](https://github.com/LeeNuksID/PHP-Faker-Muslim/blob/main/CONTRIBUTING.md)
